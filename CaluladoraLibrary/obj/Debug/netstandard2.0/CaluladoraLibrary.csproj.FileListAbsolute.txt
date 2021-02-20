@@ -1,0 +1,9 @@
+D:\Documentos\projetos\calculadora-csharp\Calculadora\CaluladoraLibrary\bin\Debug\netstandard2.0\CaluladoraLibrary.deps.json
+D:\Documentos\projetos\calculadora-csharp\Calculadora\CaluladoraLibrary\bin\Debug\netstandard2.0\CaluladoraLibrary.dll
+D:\Documentos\projetos\calculadora-csharp\Calculadora\CaluladoraLibrary\bin\Debug\netstandard2.0\CaluladoraLibrary.pdb
+D:\Documentos\projetos\calculadora-csharp\Calculadora\CaluladoraLibrary\obj\Debug\netstandard2.0\CaluladoraLibrary.csprojAssemblyReference.cache
+D:\Documentos\projetos\calculadora-csharp\Calculadora\CaluladoraLibrary\obj\Debug\netstandard2.0\CaluladoraLibrary.AssemblyInfoInputs.cache
+D:\Documentos\projetos\calculadora-csharp\Calculadora\CaluladoraLibrary\obj\Debug\netstandard2.0\CaluladoraLibrary.AssemblyInfo.cs
+D:\Documentos\projetos\calculadora-csharp\Calculadora\CaluladoraLibrary\obj\Debug\netstandard2.0\CaluladoraLibrary.csproj.CoreCompileInputs.cache
+D:\Documentos\projetos\calculadora-csharp\Calculadora\CaluladoraLibrary\obj\Debug\netstandard2.0\CaluladoraLibrary.dll
+D:\Documentos\projetos\calculadora-csharp\Calculadora\CaluladoraLibrary\obj\Debug\netstandard2.0\CaluladoraLibrary.pdb

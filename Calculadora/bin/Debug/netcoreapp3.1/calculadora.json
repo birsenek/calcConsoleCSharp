@@ -1,0 +1,11 @@
+{
+  "Operations": [
+    {
+      "Valor1": 4.0,
+      "Valor2": 0.0,
+      "Operacao": "Divisao",
+      "NovoValor2": 5.0,
+      "Resultado": 0.8
+    }
+  ]
+}

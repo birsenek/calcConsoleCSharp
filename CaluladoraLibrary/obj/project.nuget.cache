@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "7+5SmWS8X8gIqpbibg+R7jeBTTJU8PO8O4mirmjWLeewObebdsYfrULSm9R0aqMmdchPlVK+Mqi/2fiEFEFtVQ==",
+  "success": true,
+  "projectFilePath": "D:\\Documentos\\projetos\\calculadora-csharp\\Calculadora\\CaluladoraLibrary\\CaluladoraLibrary.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\BirseneK\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\BirseneK\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\BirseneK\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
